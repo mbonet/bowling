@@ -31,7 +31,7 @@
 
 
 ## How to run the application:
->>> python main.py <<<
+>>> python main.py
 
 ## How to run tests:
->>> nosetests -v tests.py <<<
+>>> nosetests -v tests.py 
