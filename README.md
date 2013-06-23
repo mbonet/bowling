@@ -1,4 +1,4 @@
-# Bowling game for hetras GmbH
+# Bowling game
 
 ## Credits 
     M. Bonet 
